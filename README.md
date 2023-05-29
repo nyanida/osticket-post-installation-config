@@ -31,8 +31,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 <p>
 <img src="https://i.imgur.com/tEGn7y5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  Select 'Admin Panel' at the top 
 </p>
+<p> Select 'Admin Panel' at the top </p>
 
 <p>
 <img src="https://i.imgur.com/5FvLuj3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
