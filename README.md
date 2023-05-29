@@ -38,6 +38,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/5FvLuj3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<img src="https://i.imgur.com/M9Aj8SX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Click 'Add New Role' button</p>
+<p>
+<img src="https://i.imgur.com/Tkywu0Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>Name new role 'Supreme Admin'</p>
+<p>
 Configure Roles
 Admin Panel > Agents > Roles
 Supreme Admin
